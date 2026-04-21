@@ -1,1 +1,1 @@
-
+Hello, My name is Dinesh Kumar, and I am a B.Tech graduate in Artificial Intelligence and Data Science. Currently, I am working at Vertical Systems, now I am in the training phase. During my first week of training, I learned the fundamentals of HTML, CSS, and JavaScript. Now, in my second week, I am focusing on learning the Git and Version Control concepts.
